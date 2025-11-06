@@ -1,0 +1,32 @@
+ *{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', Helvetica, Arial;
+    background: black;
+}
+#mainpagecont{
+    margin: auto;
+    height: 100vw;
+    width: 100%;
+}
+#stripgroup1{
+    height: 100%;
+    width: 100%;
+    border: 2px solid yellow;
+    display: flex;
+}
+#stripgroup2{
+    height: 100%;
+    width: 100%;
+    border: 2px solid red;
+}
+.strip{
+    margin: 0 50px 0 0;
+    height: 100%;
+    width: 7px;
+    background: red;
+}

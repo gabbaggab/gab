@@ -5,7 +5,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Source Sans Pro', Helvetica, Arial;
+    /* font-family: 'Source Sans Pro', Helvetica, Arial; */
     height: 100vh;
 }
 #mainpagecont{
@@ -46,3 +46,4 @@ body{
   
     
 }
+
